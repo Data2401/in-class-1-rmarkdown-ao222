@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Alex Orman"
 date: "Data 2401"
 output: html_document
 ---
@@ -32,3 +32,32 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
+## Wise Words
+> That which is despicable to you, do not do to your fellow, this is the whole Torah, and the rest is commentary
+[website about this quote](https://www.jewishvirtuallibrary.org/rabbi-hillel-quotes-on-judaism-and-israel)
+
+## My Semester
+|Course Number|Course Title|Instructor Name
+|:----------------|:-----------------------------|:-------------------------|
+|__COMM 2309__    |_Interpersonal Communication_ | Prof. Mueller            |
+|__MATH 3302__    |_Probability and Statistics_  | Prof. King               |
+|__PHIL 2305__    |_Contemporary Ethical Issues_ | Prof. Wrobel-Best        |
+
+## I recommend
+Who is a famous professor from University of Houston who uses qualitative data to investigate shame and other psychological traits; probably best known for her Ted Talk on vulnerability and appearances on Oprah?
+
+### Brene Brown
+
+```
+"When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again' --my gut reaction is, 'What a badass.'"
+```
+
+Books By Brene Brown
+
+* The Gifts of Imperfection
+* Daring Greatly
+* Rising Strong
+* Braving the Wilderness
+* Dare to Lead
+* Atlas of the Heart.
+
