@@ -34,14 +34,15 @@ Note that you can click "Knit" as you go along to see what the final results are
  
 ## Wise Words
 > That which is despicable to you, do not do to your fellow, this is the whole Torah, and the rest is commentary
+
 [website about this quote](https://www.jewishvirtuallibrary.org/rabbi-hillel-quotes-on-judaism-and-israel)
 
 ## My Semester
 |Course Number|Course Title|Instructor Name
-|:----------------|:-----------------------------|:-------------------------|
-|__COMM 2309__    |_Interpersonal Communication_ | Prof. Mueller            |
-|__MATH 3302__    |_Probability and Statistics_  | Prof. King               |
-|__PHIL 2305__    |_Contemporary Ethical Issues_ | Prof. Wrobel-Best        |
+|:-----------------|:------------------------------|:-------------------------|
+| __COMM 2309__    | _Interpersonal Communication_ | Prof. Mueller            |
+| __MATH 3302__    | _Probability and Statistics_  | Prof. King               |
+| __PHIL 2305__    | _Contemporary Ethical Issues_ | Prof. Wrobel-Best        |
 
 ## I recommend
 Who is a famous professor from University of Houston who uses qualitative data to investigate shame and other psychological traits; probably best known for her Ted Talk on vulnerability and appearances on Oprah?
